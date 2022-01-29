@@ -35,4 +35,4 @@ else:
 
 polecenie `ls` wyswietla pliki w katalogu w ktorym sie znajdujemy
 
-![chow chow](/home/LABPK/mjasinska/13warsztat/pies.jpg)
+![chow chow](pies.jpg)
